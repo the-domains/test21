@@ -1,7 +1,7 @@
 name: test21
 favicon: null
-layout_spectrum: 0.7849069670774043
-typography_spectrum: 0.4363293556962162
+layout_spectrum: 0.9877
+typography_spectrum: 0.78251
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.18691872037015855
-  lightness: 0.43503796262666583
-  saturation: 0.3201510179787874
-  rhythmicContrast: 0.12455234513618052
+  brandStrength: 0.8125
+  lightness: 0.625
+  saturation: 0.875
+  rhythmicContrast: 1
 purpose: []
