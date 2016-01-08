@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[test21]]></title>
+        <description><![CDATA[test21]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Jan 2016 15:01:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Figini Shoes]]></title>
+            <description><![CDATA[<article><h1>Figini Shoes</h1><p>The English town of Northampton was once the shoemaking capital of Europe, with 2,000 individual bootmakers working there towards the end of the nineteenth century. The town’s central position and proximity to the eleven rivers running through the county made Northampton an obvious place for cobblers to set up business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11a93281977d8f2efe8352cea94274529d0d892d.jpg"></article>]]></description>
+            <link>undefined6004157a-dbb6-41c8-81be-982874df4931/index.html</link>
+            <guid isPermaLink="false">6004157a-dbb6-41c8-81be-982874df4931</guid>
+            <pubDate>Fri, 08 Jan 2016 15:01:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
